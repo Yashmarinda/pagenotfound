@@ -1,0 +1,274 @@
+{
+  "settings": {
+    "name": "IPhone 7 Giveaway",
+    "currentPage": "page2.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 22,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iphone7-275x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://souqcms.s3.amazonaws.com/spring/images/2016/Apple/Apple-iPhone-FaceTime-7-4G-LTE/3-apple-iphone-7-camera-black.jpg",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"www.apple.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Leaked Images.html\" target=\"_blank\">Leaked Images</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">MackBook Pro</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">IPhone 7 Plus</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundreal-2000x1311.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "IPhone 7 Giveaway",
+          "text": "Click any one",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://docs.google.com/forms/d/1Nu2y5VOMx--7n1Zb89XYoVUXzHgjAc_xEuuethtfVt4/viewform?edit_requested=true\" data-toolbar=\"-mbrBtnMove\">Get free IPhone 7</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"Leaked Images.html\" data-toolbar=\"-mbrBtnMove\">See Images</a>",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            },
+            "H1": {
+              "color": "#c1c1c1"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Web Creator Title",
+        "meta_descr": "Web Creator Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-l",
+          "_params": {
+            "blockTitle": "<h3>Sorry Page Not Found(404)</h3>",
+            "HTMLCode": "<script type=\"text/javascript\">\n    google_ad_client = \"ca-pub-8035962809434925\";\n    google_ad_slot = \"9325220296\";\n    google_ad_width = 728;\n    google_ad_height = 90;\n</script>\n<!-- IPhone 7 -->\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>",
+            "paddingTop": "80",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
+          },
+          "paddingTop": ".block {padding-bottom:80px; padding-top:80px;}",
+          "blockTitle": "<h3>Sorry Page Not Found(404)</h3>",
+          "HTMLCode": "<script type=\"text/javascript\">\n    google_ad_client = \"ca-pub-8035962809434925\";\n    google_ad_slot = \"9325220296\";\n    google_ad_width = 728;\n    google_ad_height = 90;\n</script>\n<!-- IPhone 7 -->\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>"
+        }
+      ]
+    },
+    "Leaked Images.html": {
+      "settings": {
+        "title": "Leaked Images",
+        "meta_descr": "See the un-discovered",
+        "order": 3
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e",
+          "title": "IPhone 8",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Made By Apple"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/iphone-colour-variants-2000x1455-800x582.png",
+                "image": "@PROJECT_PATH@/assets/images/iphone-colour-variants-2000x1455.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/iphone-white-2000x1100-800x440.png",
+                "image": "@PROJECT_PATH@/assets/images/iphone-white-2000x1100.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/iphone-8-concept2-2000x1107-800x442.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iphone-8-concept2-2000x1107.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/iphone-8-features-2000x1102-800x440.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iphone-8-features-2000x1102.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/main-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/main-2000x1000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/tmg-article-default-mobile-2000x1354-800x541.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tmg-article-default-mobile-2000x1354.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-c",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            },
+            "H1": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_anchor": "header4-k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundreal-2000x1311-1.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "IPhone 7 Giveaway",
+          "text": "Click any one",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get free IPhone 7</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"Leaked Images\" data-toolbar=\"-mbrBtnMove\">See Images</a>"
+        }
+      ]
+    }
+  }
+}
